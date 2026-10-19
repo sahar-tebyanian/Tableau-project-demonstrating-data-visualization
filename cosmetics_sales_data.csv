@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,Price,UnitsSold,Revenue,Brand
+P001,Matte Lipstick,Makeup,12.99,150,1948.5,Maybelline
+P002,Liquid Foundation,Makeup,18.5,120,2220.0,Loreal
+P003,Mascara,Makeup,10.99,200,2198.0,Rimmel
+P004,Face Cream,Skincare,24.99,90,2249.1,Nivea
+P005,Cleanser,Skincare,14.5,140,2030.0,Simple
+P006,Vitamin C Serum,Skincare,29.99,75,2249.25,The Ordinary
+P007,Perfume,Fragrance,49.99,60,2999.4,Dior
+P008,Body Mist,Fragrance,9.99,180,1798.2,Victoria Secret
+P009,Nail Polish,Beauty,5.99,250,1497.5,Essie
+P010,Hair Shampoo,Haircare,8.99,210,1887.9,Pantene
+P011,Hair Conditioner,Haircare,8.99,190,1708.1,Pantene
+P012,Eye Shadow Palette,Makeup,22.99,95,2184.05,NYX
+P013,Sunscreen SPF50,Skincare,16.99,130,2208.7,Garnier
+P014,Lip Gloss,Makeup,7.99,170,1358.3,Revlon
+P015,Body Lotion,Skincare,11.99,160,1918.4,Dove
